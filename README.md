@@ -1,4 +1,5 @@
 # Alura-React-Proj-01
+1-Entendendo como a biblioteca funciona.\
 Este projeto é um bloco de notas;\
 O primeiro projeto em React dos cursos da Alura;\
 Ele é bem básico pois foi construído para aprendizagem.
