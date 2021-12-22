@@ -2,7 +2,8 @@
 1-Entendendo como a biblioteca funciona.\
 Este projeto é um bloco de notas;\
 O primeiro projeto em React dos cursos da Alura;\
-Ele é bem básico pois foi construído para aprendizagem.
+Ele é bem básico pois foi construído para aprendizagem.\
+Parte 2 => https://github.com/Roselaine-Moreira/Alura-React-Proj-01.2
 
 ## Para executá-lo:
 
